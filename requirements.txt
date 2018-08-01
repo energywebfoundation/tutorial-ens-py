@@ -1,0 +1,3 @@
+web3==4.4.1
+idna==2.7
+ipykernel==4.8.2
