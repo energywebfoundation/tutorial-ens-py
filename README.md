@@ -1,6 +1,6 @@
 # Ethereum ENS tutorial and playground with Python & web3.py
 
-For educational purposes.
+For educational purposes. Made for https://energyweb.atlassian.net/wiki/spaces/EWF/pages/555745281/Using+ENS+on+Tobalaba.
 
 Used with [Parity client](https://github.com/paritytech/parity-ethereum) version 1.11.6 Beta and [web3.py](https://github.com/ethereum/web3.py) version 4.5.0.
 
